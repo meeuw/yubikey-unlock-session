@@ -3,7 +3,7 @@ Description=Yubikey unlock session
 
 [Service]
 Type=simple
-ExecStart=.../yubikey-unlock-session
+ExecStart=/usr/bin/yubikey-unlock-session
 Restart=on-failure
 
 [Install]

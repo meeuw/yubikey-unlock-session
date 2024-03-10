@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "yubikey-unlock-session"
-version = "0.3.0"
+version = "0.4.0"
 description = "Unlock Gnome Session using a yubikey, disable screensaver while plugged in."
 authors = ["Dick Marinus <dick@mrns.nl>"]
 license = "GPL-3.0"
